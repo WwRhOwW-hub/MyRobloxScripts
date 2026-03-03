@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/BeeSwarmAutoFarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WwRhOwW-hub/BeeSwarmAutoFarm.lua/main/BeeSwarmAutoFarm.lua"))()
